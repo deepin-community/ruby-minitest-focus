@@ -1,0 +1,12 @@
+ruby-minitest-focus (1.1.2-1.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Tue, 29 Dec 2020 04:01:41 +0100
+
+ruby-minitest-focus (1.1.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #893127)
+
+ -- Balasankar C <balasankarc@debian.org>  Fri, 16 Mar 2018 23:07:04 +0530
